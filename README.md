@@ -21,7 +21,11 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 
 <h2>📝 Step by Step Guide: A Comprehensive Guide to Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.  </h2>
 
-- <b>[Step 1: Download and install all the tools above]</b>
+
+- <b>STEP 1: Download all the tools above. The only tool that needs installing on your computer is your virtualBox the rest will be installed in the virtual environment.</b>
+
+
+
 - <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
