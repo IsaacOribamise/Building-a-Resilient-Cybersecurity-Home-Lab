@@ -19,9 +19,13 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
 - <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
 
-- 64-bit 2.0+ GHz processor or higher based system is mandatory for this class (Important - Please Read: a 64-bit system processor is mandatory)]</b>
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
+<h2>📝 Step by Step Guide: A Comprehensive Guide to Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.  </h2>
+
+- <b>[Step 1: Download and install all the tools above]</b>
+- <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
+- <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
+- <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
+- <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
   - [Keylogger](https://github.com/richardsaunders215/keylogger)
   - [FTP Scanner](https://github.com/richardsaunders215/FTP-Scanner)
   - [Hello World](https://github.com/richardsaunders215/hello-world)
