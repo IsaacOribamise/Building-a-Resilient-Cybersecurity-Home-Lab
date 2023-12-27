@@ -5,8 +5,8 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 
 <h2>🛠️ Tools That I Used</h2>
 
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
-- <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
+- <b>[VirtualBox🔄-(Download the version for your operating system)](https://www.virtualbox.org/wiki/Downloads)</b>: This is an open-source virtualization platform that allows us to create and manage virtual machines (VMs). For our cybersecurity home lab, I would be using it to simulate diverse operating systems and network configurations within isolated environments.
+- <b>[Kali Linux🏴‍☠️💻-(Download the VirtualBox 64-bit version)](https://www.kali.org/get-kali/#kali-virtual-machines)</b>: This is a Linux distribution designed for penetration testing, ethical hacking, and cybersecurity activities. In this home lab, I will use it as our primary toolkit for conducting security assessments, vulnerability analysis, and hands-on penetration testing exercises.
 - <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
 - <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
 - <b>[Homelab](https://github.com/richardsaunders215/keylogger)</b>
