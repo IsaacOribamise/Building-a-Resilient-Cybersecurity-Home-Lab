@@ -22,11 +22,11 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 <h2>📝 Step by Step Guide: A Comprehensive Guide to Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.  </h2>
 
 
-- <b>STEP 1: Download all the tools above. The only tool that needs installing on your computer is your virtualBox the rest will be installed in the virtual environment.</b>
+- <b>STEP 1: DOWNLOAD ALL THE NEEDED TOOLS. (The only tool that needs installing on your computer is your VirtualBox the rest will be installed in the virtual environment, and some of the files will need to be extracted. Lastly, you can also put everything in a designated folder to make it look nice).</b><img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/441b1ed2-6abc-47d8-9f06-829e03639192">
+- <b>STEP 2: OPEN INSTALLED VIRTUAL BOX & BEGIN INSTALLING EACH TOOL IN THE VIRTUALBOX</b>
+<img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/b8e31448-53ef-4624-8908-ee05ab9bc9c6">
 
 
-
-- <b>[💾 RAM: 16GB (gigabytes) of RAM (I will say 8 GB of RAM or higher will suffice)]</b>
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
 - <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
