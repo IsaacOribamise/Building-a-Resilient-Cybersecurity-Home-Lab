@@ -23,10 +23,61 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 
 - <b>[THIS LINK IS A WELL-DETAILED GUIDE OF THE PROJECT](https://www.youtube.com/watch?v=BwAD8w05D5A&list=PLUkY1OVVHzVktZOecfiDxdIodK4l5KkwY&index=1&pp=iAQB)</b>
 
-- <b>STEP 1: DOWNLOAD ALL THE NEEDED TOOLS. (The only tool that needs installing on your computer is your VirtualBox the rest will be installed in the virtual environment, and some of the files will need to be extracted. Lastly, you can also put everything in a designated folder to make it look nice).</b><img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/441b1ed2-6abc-47d8-9f06-829e03639192">
-- <b>STEP 2: OPEN INSTALLED VIRTUAL BOX & BEGIN INSTALLING EACH TOOL IN THE VIRTUALBOX</b>
-<img width="960" alt="Screenshot 2023-12-27 131829" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/b8e31448-53ef-4624-8908-ee05ab9bc9c6">
+- <b>STEP 1: Download and install VirtualBox from the official website. Follow the installation instructions for your operating system.</b>
+- <b>STEP 2: Download and exact all the other tools (Kali Linux, Windows server 2019, Windows 11 OS, and Metasploitable). Lastly, you can also put everything in a designated folder to make it look organized.</b>
+<img width="784" alt="Screenshot 2023-12-27 131015" src="https://github.com/IsaacOribamise/Building-a-Resilient-Cybersecurity-Home-Lab/assets/154943957/a3fb8b1d-6346-4719-9546-4648e7d757f2">
 
+
+(The only tool that needs installing on your computer is your VirtualBox the rest will be installed in the virtual environment, and some of the files will need to be extracted. Lastly, you can also put everything in a designated folder to make it look nice).
+1. Install VirtualBox:
+
+Download and install VirtualBox from the official website: VirtualBox Downloads.
+Follow the installation instructions for your operating system.
+2. Download Kali Linux:
+
+Visit the official Kali Linux website: Kali Linux Downloads.
+Download the appropriate version of Kali Linux (e.g., 64-bit ISO).
+3. Create a Kali Linux VM:
+
+Open VirtualBox and click on "New" to create a new virtual machine.
+Name the VM (e.g., "Kali Linux") and select "Linux" as the type, and "Debian (64-bit)" as the version.
+Allocate RAM (at least 2GB) and create a new virtual hard disk (dynamic allocation recommended).
+Attach the Kali Linux ISO to the VM and start the VM.
+4. Install Kali Linux:
+
+Follow the on-screen instructions to install Kali Linux.
+Choose your language, location, and keyboard layout.
+When prompted for disk partitioning, select "Guided - use entire disk" for simplicity.
+5. Download Windows 10 and Server 2019 ISOs:
+
+Download the Windows 10 and Server 2019 ISO files from the official Microsoft website or appropriate sources.
+6. Create Windows VMs:
+
+Repeat the process in step 3 to create two new VMs for Windows 10 and Server 2019.
+Customize VM settings such as RAM, CPU, and storage based on your preferences.
+7. Install Windows OS:
+
+Start the Windows 10 VM and install the OS by attaching the Windows 10 ISO.
+Repeat the process for the Server 2019 VM.
+8. Download Metasploitable:
+
+Download the Metasploitable 2 virtual machine from the Rapid7 website: Metasploitable Downloads.
+9. Import Metasploitable VM:
+
+In VirtualBox, click on "File" > "Import Appliance" and select the downloaded Metasploitable OVA file.
+Adjust settings if needed and import the VM.
+10. Connect VMs in a Network:
+
+In VirtualBox, select each VM and go to "Settings" > "Network."
+Choose the "Bridged Adapter" for each VM to connect them to the same network.
+11. Start the Lab:
+
+Start all VMs in the desired order: Kali Linux, Windows 10, Server 2019, Metasploitable.
+12. Explore and Practice:
+
+Use Kali Linux for ethical hacking, penetration testing, and security assessments.
+Practice securing and managing Windows environments on the Windows VMs.
+Explore vulnerabilities and conduct penetration tests on Metasploitable.
 
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
