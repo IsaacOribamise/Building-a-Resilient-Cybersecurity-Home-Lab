@@ -11,6 +11,7 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 - <b>[Windows Server 2019 🌐-(Download the ISO file)](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)</b>: This is a server operating system that joins the Windows 11 OS to a server environment. The reason for this is that in a real-world scenario, an attack will be on an active directory environment. For our Home Lab, we would use it to simulate and secure network infrastructures, implement Active Directory services and explore server-side vulnerabilities.
 - <b>[Metasploitable 🎯-(The link downloads automatically)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/metasploitable-linux-2.0.0.zip/download )</b>: This is a purposely vulnerable virtual machine designed for penetration testing and security training. I will use it to simulate a target environment with intentionally weak configurations and known vulnerabilities, making it an ideal resource for practicing ethical hacking techniques.</b>
 
+
 <h2>🔄💻 Required System Requirement: I use an HP ENVY x360 Laptop (Not the best but it does the job)</h2>
 
 - <b>[🧠 CPU: 13th Gen Intel(R) Core(TM) i7-1355U 1.70 GHz (Anything higher than this will work)]</b>
@@ -18,6 +19,7 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 - <b>[📀 Disk: 1TB (Terabyte) (500GB - 1000GB of free disk space will be enough)]</b>
 - <b>[🔄 BIOS/UEFI: VT-x, AMD-V, or the equivalent must be enabled in the BIOS/UEFI]</b>
 - <b>[🔧 System Type: 64-bit operating system, x64-based processor (⚠️MANDATORY: This is a must)]</b>
+
 
 <h2>[📝 Step by Step Guide To Setting Up Your Cybersecurity Home Lab (Note: For this project, we would only be setting up the Home lab and connecting each tool, then using it for future projects.]
 
