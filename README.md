@@ -33,7 +33,12 @@ Welcome to my first cybersecurity project 🌐💻. I will be building a robust 
 
 - <b>📝 STEP 4: Connect VMs in a Network > In VirtualBox, select each VM and go to "Settings" > "Network." Choose the "Bridged Adapter" for each VM to connect them to the same network.</b>
 
-- <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project]
+- <b>📝 STEP 5: We explore and practice: As I said we are only setting up the Home lab and connecting each tool, then using it for future projects. So keep watch for the next project] </b>
+
+<h2>💡 key lessons and takeaways from this project:</h2>
+I laid the foundation for a secure and controlled environment where I can explore, learn, and experiment with various cybersecurity tools and techniques. Understanding how the virtual world works, understanding these tools, and the purpose they serve. So stay tuned for more exciting projects that lie ahead! 🌐💻🚀
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
